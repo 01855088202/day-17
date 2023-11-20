@@ -1,5 +1,22 @@
 body{
-    width:30px;
+    width:1000px;
     height:40px;
-    background color:red;
+    background-color: brown;
+    font-size: larger;
+}
+h1{
+    font-style: initial;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: steelblue;
+    text-align: center;
+}
+#main{
+    width:50% ;
+}
+#right img{
+    width: 50%;
+}
+#left img{
+    max-width: 100%;
+    height: auto;
 }
